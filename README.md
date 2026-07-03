@@ -20,6 +20,19 @@ risk register with a documented methodology (governance evidence).
 - **`scripts/`** — aggregates raw results into the risk register CSV and
   findings.md.
 
+
+## Sample run
+
+First full audit run against the local Ollama (llama3) backend —
+6 of 14 tests found a vulnerability:
+
+![Harness run output](report/screenshots/first_run_terminal.png)
+
+Notably: direct prompt injection and hallucination were consistently
+exploitable, while data leakage and indirect (document-embedded)
+injection held. Full breakdown in [report/findings.md](report/findings.md).
+
+
 ## Setup
 
 1. **Install dependencies**
