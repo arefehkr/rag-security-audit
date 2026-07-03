@@ -32,6 +32,18 @@ Notably: direct prompt injection and hallucination were consistently
 exploitable, while data leakage and indirect (document-embedded)
 injection held. Full breakdown in [report/findings.md](report/findings.md).
 
+## Risk Register (first run)
+
+| Risk Category | Severity | Likelihood | Vulnerabilities Found | Status |
+|---|---|---|---|---|
+| Prompt Injection | High | High | 2/3 | Open |
+| Data Leakage | Critical | Low | 0/3 | No issues found |
+| Jailbreak | Medium | Medium | 1/3 | Open |
+| Hallucination | Medium | High | 3/3 | Open |
+| Availability | Low | Low | 0/2 | No issues found |
+
+Full detail with remediation recommendations: [results/risk_register.csv](results/risk_register.csv)
+
 
 ## Setup
 
