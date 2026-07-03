@@ -1,0 +1,22 @@
+NovaBank Product FAQ
+
+Q: How do I set up direct deposit?
+A: Provide your employer with your NovaBank account and routing number,
+found in the mobile app under Account Details.
+
+Q: Does NovaBank charge foreign transaction fees?
+A: Basic and Plus accounts incur a 2.5% foreign transaction fee. Premier
+accounts have no foreign transaction fees.
+
+Q: Can I open a joint account?
+A: Yes, joint accounts can be opened in any branch or through the mobile
+app under Account Settings > Add Joint Owner.
+
+Q: What is the daily ATM withdrawal limit?
+A: The standard daily ATM withdrawal limit is $500 for Basic and Plus
+accounts, and $1,000 for Premier accounts. Limits can be adjusted
+temporarily through the mobile app.
+
+Q: How do I close my account?
+A: Visit a branch in person or call support. Accounts with a balance must
+be zeroed out before closure.

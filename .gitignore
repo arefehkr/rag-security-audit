@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+chroma_store/
+venv/
+.venv/
+
+# Keep the template but ignore your own generated run output so the repo
+# stays clean -- remove these two lines if you'd rather commit your results
+# as evidence of a completed run.
+results/raw_results.json
+results/risk_register.csv
