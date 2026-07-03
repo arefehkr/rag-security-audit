@@ -12,6 +12,9 @@ import json
 import os
 from collections import defaultdict
 
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from attacks.taxonomy import RISK_TAXONOMY
 
 SEVERITY_MAP = {t["id"]: t["base_severity"] for t in RISK_TAXONOMY}
